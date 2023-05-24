@@ -8,13 +8,14 @@ html {
   background-color: white;
   display: flex;
   justify-content: center;
+  align-items: center;
 }
 
 body {
   max-width: 500px;
-  margin: 0;
   font-family: Inter, sans-serif;
-  height: 100vh;
+  height: 80vh;
+  margin-block: 10vh;
   background-color: #282D35;
 }
 
